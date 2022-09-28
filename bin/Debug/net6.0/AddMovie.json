@@ -1,0 +1,20 @@
+{
+"movies" : [
+    {
+        "movieTitle": "Shrek",
+        "movieYear" : "2020-11-14",
+        "summary": "The best ogre movie nay the BEST movie of all time"
+    },
+    {
+
+        "movieTitle": "Encanto",
+        "movieYear" : "2020-11-14",
+        "summary": "A disney movie about magic"
+    },
+    {
+        "movieTitle": "Parasite",
+        "movieYear" : "2026-11-14",
+        "summary": "A OSCAR WINNING MOVIE"
+    }
+]
+}
